@@ -25,7 +25,7 @@ Candidatos Ciudadanos de los Estados Unidos Mexicanos A.C. es una organización 
 **Sitio Web:** [www.candidatosciudadanos.mx](#) 🌐
 
 ## Maintainers 🤝
-
-- [Metrika Software Consultancy](https://metrika.digital) 🥨
+- [🥨 Metrika Software GitHub Profile](https://github.com/metrikalabs) 👨🏽‍🔧
+- [🥨 Metrika Software Consultancy Website](https://metrika.digital) 🌎
 
 ¡Gracias por tu interés en Candidatos Ciudadanos de los Estados Unidos Mexicanos A.C.! Estamos comprometidos con la construcción de un país más justo, democrático y participativo. ¡Únete a nosotros en esta emocionante jornada por un futuro mejor para todos! 🌟
